@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Colab
+.ipynb_checkpoints/
+
+# Training checkpoints
+checkpoints*/
+*.pt
+*.bin
+
+# Large models
+*.safetensors
+
+# Logs
+*.log
+
+# OS
+.DS_Store
