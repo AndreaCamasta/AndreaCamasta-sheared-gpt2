@@ -64,7 +64,6 @@ AndreaCamasta-sheared-gpt2/
 ├── config.py
 ├── requirements.txt
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
@@ -221,6 +220,12 @@ Main libraries:
 - Datasets
 - Accelerate
 - NumPy
+
+Users can use:
+```
+pip install -r requirements.txt
+```
+To directly install the required libraries
 
 ---
 
